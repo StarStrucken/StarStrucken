@@ -1,6 +1,6 @@
 # **Welcome to My Profile, Choom!**  
 **`>> ENTERING NIGHT CITY...`**  
-
+<img align="right" width="500" height="500" src="banner.gif">
 ![Cyberpunk Night City](banner.gif) TODAY’S BODY COUNT REPORT: ![Visitor Count](https://profile-counter.glitch.me/{StarStrucken}/count.svg)
 ---
 
