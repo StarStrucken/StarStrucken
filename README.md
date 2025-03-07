@@ -1,7 +1,7 @@
 # **Welcome to My Profile, Choom!**  
 **`>> ENTERING NIGHT CITY...`**  
 
-![Alt text](banner.gif)
+![Cyberpunk Night City](banner.gif)
 ---
 
 ### **`>> USER IDENTIFIED:` **
