@@ -6,7 +6,7 @@
 <span style="font-family: Arial, sans-serif;">This text uses a different font (if supported)</span>
 ---
 
-### **`>> USER IDENTIFIED:`**  **Ivan Costa Neto**
+### **`>> USER IDENTIFIED:` Ivan Costa Neto**
 **`ROLE:`** [Your Role, e.g., Netrunner, Techie, Solo, or Corporate]  
 **`LOCATION:`** Night City, CA  
 **`STATUS:`** Alive and Kicking
