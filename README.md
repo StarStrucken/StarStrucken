@@ -4,7 +4,7 @@
 
 # &nbsp;&nbsp;&nbsp;**`>> ENTERING NIGHT CITY...`**  
 
-**`TODAY’S BODY COUNT REPORT:`**  ![Visitor Count](https://profile-counter.glitch.me/{StarStrucken}/count.svg)
+&nbsp;&nbsp;&nbsp;**`>> TODAY’S BODY COUNT REPORT:`**  ![Visitor Count](https://profile-counter.glitch.me/{StarStrucken}/count.svg)
 ---
 <br>
 ### **`>> USER IDENTIFIED:`**
