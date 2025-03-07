@@ -6,6 +6,8 @@
 
 ### **`>> USER IDENTIFIED:` **
 
+![Cyberpunk Night City](card.png)
+
 **`ID:`** StarStrucken
 **`ROLE:`** Netrunner  
 **`LOCATION:`** Night City, CA  
