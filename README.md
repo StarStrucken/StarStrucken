@@ -6,7 +6,7 @@
 
 ### **`>> USER IDENTIFIED:` **
 
-<img align="right" width="250" height="250" src="card.png">
+<img align="right" width="500" height="500" src="card.png">
 
 **`ID:`** StarStrucken
 **`ROLE:`** Netrunner  
