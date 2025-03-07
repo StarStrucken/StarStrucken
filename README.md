@@ -4,7 +4,7 @@
 ![Cyberpunk Night City](banner.gif)
 ---
 
-### **`>> USER IDENTIFIED:` **
+### **`>> USER IDENTIFIED:`**
 
 <img align="right" width="500" height="500" src="card.png">
 
