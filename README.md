@@ -11,9 +11,8 @@
 
 ### **`>> USER IDENTIFIED:`**
 
-<img align="left" width="200" height="200" src="card.png">
+<img align="left" width="250" height="250" src="card.png">
 
-**`ID:`** StarStrucken  
 **`ROLE:`** Netrunner  
 **`LOCATION:`** Night City, CA  
 **`STATUS:`** Alive and Kicking  
