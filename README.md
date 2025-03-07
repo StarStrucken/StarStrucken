@@ -1,7 +1,7 @@
 # **Welcome to My Profile, Choom!**  
 **`>> ENTERING NIGHT CITY...`**  
 
-![Cyberpunk Night City](banner.gif)
+![Cyberpunk Night City](banner.gif) ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 ---
 
 ### **`>> USER IDENTIFIED:`**
