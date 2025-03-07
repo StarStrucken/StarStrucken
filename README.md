@@ -1,4 +1,4 @@
-# **`>> w3lc0m3 t0 mY pr0f1l3, ch00m`**  
+# **w3lc0m3 t0 mY pr0f1l3, ch00m**  
 
 <img align="right" width="400" height="138" src="banner.gif">
 
