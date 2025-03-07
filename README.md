@@ -1,4 +1,4 @@
-# **Welcome to My Profile, Choombatta!**  
+# **Welcome to My Profile, Choom!**  
 **`>> ENTERING NIGHT CITY...`**  
 
 ![Cyberpunk Banner](https://via.placeholder.com/1200x300/000000/00FF00?text=Neon+City+Skyline)  
