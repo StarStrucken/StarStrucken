@@ -11,7 +11,7 @@
 
 ### **`>> USER IDENTIFIED:`**
 
-<img align="left" width="250" height="250" src="card.png">
+<img align="left" width="240" height="240" src="card.png">
 
 **`ROLE:`** Netrunner  
 **`LOCATION:`** Night City, CA  
