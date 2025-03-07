@@ -7,10 +7,10 @@
 ---
 
 ### **`>> USER IDENTIFIED:`**  
-**[Your Name]**  
+**IVAN COSTA NETO**  
 **`ROLE:`** [Your Role, e.g., Netrunner, Techie, Solo, or Corporate]  
 **`LOCATION:`** Night City, CA  
-**`STATUS:`** [Your Status, e.g., "Alive and Kicking" or "Ghost in the Machine"]  
+**`STATUS:`** Alive and Kicking
 
 ---
 
