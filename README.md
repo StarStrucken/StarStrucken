@@ -1,7 +1,7 @@
 # **Welcome to My Profile, Choom!**  
 **`>> ENTERING NIGHT CITY...`**  
 <img align="left" width="400" height="138" src="banner.gif">
-TODAY’S BODY COUNT REPORT: ![Visitor Count](https://profile-counter.glitch.me/{StarStrucken}/count.svg)
+**`TODAY’S BODY COUNT REPORT:`**  ![Visitor Count](https://profile-counter.glitch.me/{StarStrucken}/count.svg)
 ---
 <br>
 ### **`>> USER IDENTIFIED:`**
