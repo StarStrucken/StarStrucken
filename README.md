@@ -9,7 +9,7 @@
 ### **`>> USER IDENTIFIED:` **
 
 **`ID:`** StarStrucken
-**`ROLE:`** [Your Role, e.g., Netrunner, Techie, Solo, or Corporate]  
+**`ROLE:`** Netrunner  
 **`LOCATION:`** Night City, CA  
 **`STATUS:`** Alive and Kicking
 
