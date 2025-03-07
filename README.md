@@ -2,9 +2,10 @@
 
 <img align="left" width="400" height="138" src="banner.gif">
 
- &nbsp;&nbsp;&nbsp;**`>> ENTERING NIGHT CITY...`**  
+&nbsp;&nbsp;&nbsp;**`>> ENTERING NIGHT CITY...`**  
 
 &nbsp;&nbsp;&nbsp;**`>> TODAY’S BODY COUNT REPORT:`**  ![Visitor Count](https://profile-counter.glitch.me/{StarStrucken}/count.svg)
+
 ---
 
 ### **`>> USER IDENTIFIED:`**
