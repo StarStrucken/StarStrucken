@@ -1,22 +1,22 @@
 # **Welcome to My Profile, Choom!**  
 
-<img align="left" width="400" height="138" src="banner.gif">
+<img align="right" width="400" height="138" src="banner.gif">
 
-&nbsp;&nbsp;&nbsp;**`>> ENTERING NIGHT CITY...`**  
+**`>> ENTERING NIGHT CITY...`**  
 
-&nbsp;&nbsp;&nbsp;**`>> TODAY’S BODY COUNT REPORT:`**  
+**`>> TODAY’S BODY COUNT REPORT:`**  
 ![Visitor Count](https://profile-counter.glitch.me/{StarStrucken}/count.svg)
 
 ---
 
 ### **`>> USER IDENTIFIED:`**
 
-<img align="right" width="500" height="500" src="card.png">
+<img align="left" width="200" height="200" src="card.png">
 
-**`ID:`** StarStrucken
+**`ID:`** StarStrucken  
 **`ROLE:`** Netrunner  
 **`LOCATION:`** Night City, CA  
-**`STATUS:`** Alive and Kicking
+**`STATUS:`** Alive and Kicking  
 
 ---
 
