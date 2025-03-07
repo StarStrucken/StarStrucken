@@ -1,6 +1,9 @@
 # **Welcome to My Profile, Choombatta!**  
 **`>> ENTERING NIGHT CITY...`**  
 
+![Cyberpunk Banner](https://via.placeholder.com/1200x300/000000/00FF00?text=Neon+City+Skyline)  
+*Replace the above link with a custom Cyberpunk banner or use an API like [Unsplash](https://unsplash.com) for dynamic images.*
+
 ---
 
 ### **`>> USER IDENTIFIED:`**  
@@ -46,10 +49,12 @@
 
 ---
 
-### **`>> WARNING:`**  
-*"This profile is protected by ICE. Unauthorized access will result in immediate neural shutdown."*  
+### **`>> LIVE STATS:`**  
+**`>> PULLING DATA FROM THE NET...`**  
 
----
-
-**`>> EXIT PROTOCOL INITIATED...`**  
-*Stay preem, choom. See you in the net.*  
+```json
+{
+  "GitHub_Stats": "https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark",
+  "Top_Languages": "https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark",
+  "Weather_in_Night_City": "https://wttr.in/Night_City.png?format=v2"
+}
