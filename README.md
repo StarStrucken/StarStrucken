@@ -1,5 +1,4 @@
 # **Welcome to My Profile, Choom!**  
-<span style="color:blue">some *blue* text</span>.
 **`>> ENTERING NIGHT CITY...`**  
 
 ![Cyberpunk Night City](banner.gif)
