@@ -9,7 +9,8 @@
 
 ---
 
-### **`>> USER IDENTIFIED:`**
+### **`>> USER IDENTIFIED:`** **`>> CREDENTIALS:`**
+
 
 <img align="left" width="230" height="230" src="card.png">
 
