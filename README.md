@@ -3,7 +3,7 @@
 
 ![Cyberpunk Banner](https://via.placeholder.com/1200x300/000000/00FF00?text=Neon+City+Skyline)  
 *Replace the above link with a custom Cyberpunk banner or use an API like [Unsplash](https://unsplash.com) for dynamic images.*
-
+<span style="font-family: Arial, sans-serif;">This text uses a different font (if supported)</span>
 ---
 
 ### **`>> USER IDENTIFIED:`**  
